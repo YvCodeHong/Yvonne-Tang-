@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html> 
+<head>
+      <meta charset="utf-8"> 
+      <title>Yvonne Tang</title>
+<link href="https://fonts.googleapis.com/css?family=Merriweather|Roboto+Slab" rel="stylesheet">
+      <link rel="stylesheet" href="Yvonne Tang.css">
+  <script>
+	   var visitorName = prompt("What is your name?");
+	      there is also many people that 
+</script>    
+</head>
+<body>
+<header>
+<div id="wrapper">
+	<h1>Yvonne Tang </h1>
+	<h2> Web Developer</h2> 
+</div>
+	<div class="nav">
+		<ul>
+		 	<ul class="main_menu">
+		 	 	<li><a href="index.html">Home</a></li>
+		 	 	<li><a href="#">About</a></li>
+ 				<li><a href="#">Portfolio</a></li>
+  				<li><a href="#">Contact</a></li>
+		 </ul>
+    </div>
+<div class="headerBreak"></div>
+</header>
+
+<section>
+	<ul id="gallery">
+	<li>
+	   <a href="Millienium Wheel .JPG">
+		   <img src="Millienium Wheel .JPG"  alt="">
+			<p>County Hall.</p>
+	    </a>
+	 </li> 
+	 <a href= 
+	 
+	 </a>
+	<li>
+	  <a href="IMG_6246.JPG">
+	   <img src="IMG_6246.JPG" alt="">
+	   <p>View of London.</p>
+	</li>
+	<li></li>  
+</section>
+<footer>
+	<a href="https://twitter.com/YvonneTang1"><img src="twitter-icon-74.png" alt"Twitter Logo"></a>
+	<a href="https://www.facebook.com/Yvonnetang2009"><img src="facebook-logo-png-9.png" alt"Facebook Logo"></a>
+	<a href="https://www.instagram.com/yvonnetang28/"><img src="Instagram-v051916.png" alt"Instagram Logo"></a>
+<p>&copy; 2017 Yvonne Tang.</p>
+</footer>
+</body>
+</html>
+
+

@@ -1,0 +1,90 @@
+a {
+ text-decoration: none;
+ }
+
+#wrapper {
+  background-color: #1B6565;
+  color:#FDFEFE; 
+  margin: 12px auto;
+  padding: 32px;
+  Font-size: 16px;
+}
+
+img {
+  max-width: 100%
+}
+
+
+h1 {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	text-transform: uppercase;
+	
+}
+ 
+h2 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+/****************************
+Navigation
+*****************************/
+.nav {
+     height: 80px
+     background-color: #D0ECE7;
+}
+
+.nav ul {
+	 margin: 0;
+	 padding: 0;
+}
+
+.nav ul li {
+     list-style: none;
+     text-align: center;
+     
+}
+.nav ul li a {
+      text-decoration= none;
+      float: left;
+      display: block; 
+      padding: 30px 200px;
+      color: black;
+      font-weight: 800;
+	  font-family: 'Merriweather', serif;
+	  background-color: #D0ECE7;
+}
+.nav ul li a:hover {
+      color: white;
+}
+
+.headerBreak {
+   		width: 100%
+   		height: 0;
+   		border-bottom: 2px solid #17202A  
+
+
+/****************************
+ PAGE: PORTFOLIO 
+*****************************/
+      
+ #gallery {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+ }
+
+#gallery li {
+       float: left;
+       width: 45%
+       margin: 2.5%
+       background-color: #F7F9F9;
+       color: #17202A;
+}
+ 
